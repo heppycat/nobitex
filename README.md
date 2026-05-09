@@ -1,4 +1,14 @@
+<div align="center">
+
 # nobitex
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/nucleardust/nobitex?style=social&label=⭐%20Stars)](https://github.com/nucleardust/nobitex/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/nucleardust/nobitex?style=social&label=🍴%20Forks)](https://github.com/nucleardust/nobitex/network)
+[![GitHub issues](https://img.shields.io/github/issues/nucleardust/nobitex?label=🐞%20Issues)](https://github.com/nucleardust/nobitex/issues)
+[![GitHub license](https://img.shields.io/github/license/nucleardust/nobitex?label=📜%20License)](https://github.com/nucleardust/nobitex/blob/main/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/nucleardust/nobitex?label=🕒%20Last%20commit)](https://github.com/nucleardust/nobitex/commits/main)
+
+</div>
 
 Python client for the [Nobitex](https://nobitex.ir/) API v2.
 
