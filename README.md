@@ -1,6 +1,6 @@
 <div align="center">
 
-<span style="font-size: 2em; font-weight: bold;">nobitex</span>
+<h1 style="border-bottom: none; margin-bottom: 0;">nobitex</h1>
 
 Python client for the [Nobitex](https://nobitex.ir/) API v2.
 
