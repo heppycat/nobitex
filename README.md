@@ -2,11 +2,11 @@
 
 # nobitex
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/nucleardust/nobitex?style=social&label=⭐%20Stars)](https://github.com/nucleardust/nobitex/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/nucleardust/nobitex?style=social&label=🍴%20Forks)](https://github.com/nucleardust/nobitex/network)
-[![GitHub issues](https://img.shields.io/github/issues/nucleardust/nobitex?label=🐞%20Issues)](https://github.com/nucleardust/nobitex/issues)
-[![GitHub license](https://img.shields.io/github/license/nucleardust/nobitex?label=📜%20License)](https://github.com/nucleardust/nobitex/blob/main/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/nucleardust/nobitex?label=🕒%20Last%20commit)](https://github.com/nucleardust/nobitex/commits/main)
+[![GitHub Repo stars](https://img.shields.io/github/stars/nucleardust/nobitex?style=flat&label=⭐%20Stars&color=yellow)](https://github.com/nucleardust/nobitex/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/nucleardust/nobitex?style=flat&label=🍴%20Forks&color=blue)](https://github.com/nucleardust/nobitex/network)
+[![GitHub issues](https://img.shields.io/github/issues/nucleardust/nobitex?style=flat&label=🐞%20Issues&color=red)](https://github.com/nucleardust/nobitex/issues)
+[![GitHub license](https://img.shields.io/github/license/nucleardust/nobitex?style=flat&label=📜%20License&color=green)](https://github.com/nucleardust/nobitex/blob/main/LICENSE)
+[![GitHub last commit](https://img.shields.io/github/last-commit/nucleardust/nobitex?style=flat&label=🕒%20Last%20commit&color=orange)](https://github.com/nucleardust/nobitex/commits/main)
 
 </div>
 
